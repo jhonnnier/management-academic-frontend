@@ -57,3 +57,26 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Comandos
+
+| Tecnología  | Conocer versión |
+|-------------|-----------------|
+| Angular     | ng version      |
+| Type Script | tsc -v          |
+| Node        | node -v         |
+
+### NODE
+
+Instalar versiones
+
+Ejemplo:
+
+| Instalar versión node | Descripción                       |
+|-----------------------|-----------------------------------|
+| nvm install 16        | Para Angular 10                   |
+| nvm install 20        | Para Angular 20                   |
+| nvm ls                | Para ver las versiones instaladas |
+| nvm use 16            | Usar Node v 16                    |
+| nvm use 18            | Usar Node v 18 (Proyecto Sempre)  |
+| nvm use 20            | Usar Node v 20                    |
